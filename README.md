@@ -24,4 +24,4 @@ If you want that aswell follow [this tutorial](https://www.howtogeek.com/howto/w
 and **use the JAR as Value**
 
 ## Troubleshooting
-I've encountered problems when the JAR was not on my main drive (C:\) in my case, thats why the build.bat moves the created JAR to a location on my C: drive. Obviously the Value of the last step needs to be ajusted
+I've encountered problems when the JAR was not on my main drive (C:\ in my case), thats why the build.bat moves the created JAR to a location on my C: drive. Obviously the Value of the last step needs to be ajusted
