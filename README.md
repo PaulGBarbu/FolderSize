@@ -21,4 +21,7 @@ Since in Windows its not possible to sort folders by size, I came up with this s
 ![Example Right Click Menu](https://cdn.discordapp.com/attachments/851836326688063488/851836337647910942/unknown.png)
 
 If you want that aswell follow [this tutorial](https://www.howtogeek.com/howto/windows-vista/add-any-application-to-the-desktop-right-click-menu-in-vista/)
-and **use the JAR as Key Value**
+and **use the JAR as Value**
+
+## Troubleshooting
+I've encountered problems when the JAR was not on my main drive (C:\) in my case, thats why the build.bat moves the created JAR to a location on my C: drive. Obviously the Value of the last step needs to be ajusted
