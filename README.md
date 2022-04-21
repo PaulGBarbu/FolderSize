@@ -46,4 +46,4 @@ Next:
 ![Example of Registry](https://media.discordapp.net/attachments/851836326688063488/966656770363760660/unknown.png?width=731&height=115)
 
 ## Troubleshooting
-I've encountered problems when the JAR was not on my main drive (C:\) in my case, thats why the build.bat moves the created JAR to a location on my C: drive. Obviously the Value of the last step needs to be ajusted
+I've encountered problems when the JAR was not on my main drive (C:\ in my case), thats why the build.bat moves the created JAR to a location on my C: drive. Obviously the Value of the last step needs to be ajusted
